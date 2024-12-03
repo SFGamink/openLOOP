@@ -1,6 +1,6 @@
-# openLOOP
+# openLOOP Khusus REFF
 
 
-# ====== SINGLE ACCOUNT ======
+# ====== MULTI ACCOUNT ======
 
 isi reff.txt dengan reffmu
